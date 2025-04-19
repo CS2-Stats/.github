@@ -2,6 +2,11 @@
 
 ### This bot is your ultimate CS2 stat tracker right in Discord. Whether you're grinding ranked or just playing casually, this bot gives you access to your Counter-Strike 2 statistics.
 
+<a href="https://top.gg/bot/1362443670007185580">
+  <img src="https://top.gg/api/widget/servers/1362443670007185580.svg">
+  <img src="https://top.gg/api/widget/upvotes/1362443670007185580.svg">
+</a>
+
 ----
 
 #### Here’s what it can do:
